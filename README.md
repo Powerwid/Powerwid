@@ -7,7 +7,7 @@
 - 👨‍💻 Actualmente estudio con tecnologias de desarrollo web e inteligencia artificial.
 - 📚 Estoy aprendiendo todo sobre tecnologías frontend y backend. :D
 - 💪🏼 Metas a futuro: Aprender más tecnologías. Nunca dejar de crear nuevas ideas.
-- ⚡  Dato curioso: Me encanta ir al gimnasio y a dormir. 🛌🏼
+- ⚡  Dato curioso: Me encanta ir al gimnasio y dormir. 🛌🏼
 
 ---
 
@@ -15,7 +15,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/intl-es/track/3ZspmUmIrhadEBXCK2kM9Q?si=df67dd0fab2744fa)
 
 ---
 
