@@ -2,12 +2,12 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Computer Science and Engineering Student  
+## Soy un estudiante de Ing de Software.  
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play pool and snooker 🎱.
+- 👨‍💻 Actualmente estudio con tecnologias de desarrollo web e inteligencia artificial.
+- 📚 Estoy aprendiendo todo sobre tecnologías frontend y backend. :D
+- 💪🏼 Metas a futuro: Aprender más tecnologías. Nunca dejar de crear nuevas ideas.
+- ⚡  Dato curioso: Me encanta ir al gimnasio y a dormir. 🛌🏼
 
 ---
 
