@@ -26,8 +26,11 @@
 
 ---
   
-| <img src="https://raw.githubusercontent.com/Powerwid/Powerwid/main/WiredLogIn.gif" width="200" /> | <img src="https://raw.githubusercontent.com/Powerwid/Powerwid/main/VisLain.gif" width="300" /> | <img src="https://raw.githubusercontent.com/Powerwid/Powerwid/main/WiredLogIn.gif" width="200" /> |
-|:------------------------------------------:|:------------------------------------------:|:------------------------------------------:|
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://raw.githubusercontent.com/Powerwid/Powerwid/main/WiredLogIn.gif" width="200px" height="200px" />
+  <img src="https://raw.githubusercontent.com/Powerwid/Powerwid/main/VisLain.gif" width="300px" height="300px" />
+  <img align="right" src="https://raw.githubusercontent.com/Powerwid/Powerwid/main/WiredLogIn.gif" width="200px" height="200px" />
+</div>
 
 
 ---
