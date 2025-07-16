@@ -25,13 +25,13 @@
 
 
 ---
-  
+<div align="center">
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img style="margin-right: auto;" src="https://raw.githubusercontent.com/Powerwid/Powerwid/main/WiredLogIn.gif" width="200px" height="200px" />
   <img style="margin: 0 auto;" src="https://raw.githubusercontent.com/Powerwid/Powerwid/main/VisLain.gif" width="300px" height="300px" />
   <img style="margin-left: auto;" src="https://raw.githubusercontent.com/Powerwid/Powerwid/main/WiredLogIn.gif" width="200px" height="200px" />
 </div>
-
+</div>
 
 ---
 
