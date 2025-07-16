@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## Soy un estudiante de Ing de Software.  
+## Soy un estudiante de Ing de Software. <img src="https://raw.githubusercontent.com/Powerwid/Powerwid/main/lain_myese.gif" width="40" alt="Icono" />
 
 - 👨‍💻 Actualmente estudio con tecnologias de desarrollo web e inteligencia artificial.
 - 📚 Estoy aprendiendo todo sobre tecnologías frontend y backend. :D
@@ -28,9 +28,10 @@
   
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="https://raw.githubusercontent.com/Powerwid/Powerwid/main/WiredLogIn.gif" width="200px" height="200px" />
-  <img src="https://raw.githubusercontent.com/Powerwid/Powerwid/main/lain_myese.gif" width="150px" height="150px" />
+  <img src="https://raw.githubusercontent.com/Powerwid/Powerwid/main/VisLain.gif" width="300px" height="300px" />
   <img src="https://raw.githubusercontent.com/Powerwid/Powerwid/main/WiredLogIn.gif" width="200px" height="200px" />
 </div>
+
 
 ---
 
