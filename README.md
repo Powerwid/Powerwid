@@ -23,15 +23,16 @@
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/dk96vzserh9693ew4cr5asib6)
 
+[<img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt="naviscode spotify playing" width="350" />]
 
 ---
-<div align="center">
+  
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img style="margin-right: auto;" src="https://raw.githubusercontent.com/Powerwid/Powerwid/main/WiredLogIn.gif" width="200px" height="200px" />
   <img style="margin: 0 auto;" src="https://raw.githubusercontent.com/Powerwid/Powerwid/main/VisLain.gif" width="300px" height="300px" />
   <img style="margin-left: auto;" src="https://raw.githubusercontent.com/Powerwid/Powerwid/main/WiredLogIn.gif" width="200px" height="200px" />
 </div>
-</div>
+
 
 ---
 
