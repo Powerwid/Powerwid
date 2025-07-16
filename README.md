@@ -1,4 +1,4 @@
-# Hola, soy Kleyn, también conocido como [PowerWid][website] <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+# Hola, soy Kleyn, también conocido como PowerWid <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
@@ -8,6 +8,12 @@
 - 📚 Estoy aprendiendo todo sobre tecnologías frontend y backend. :D
 - 💪🏼 Metas a futuro: Aprender más tecnologías. Nunca dejar de crear nuevas ideas.
 - ⚡  Dato curioso: Me encanta ir al gimnasio y dormir. 🛌🏼
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Powerwid/Powerwid/main/whoIsUser.gif" width="650px" height="80px" />
+</div>
+
 
 ---
 
@@ -19,12 +25,12 @@
 
 
 ---
-
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
-
-
-
-<br />
+  
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://raw.githubusercontent.com/Powerwid/Powerwid/main/WiredLogIn.gif" width="200px" height="200px" />
+  <img src="https://raw.githubusercontent.com/Powerwid/Powerwid/main/lain_myese.gif" width="150px" height="150px" />
+  <img src="https://raw.githubusercontent.com/Powerwid/Powerwid/main/WiredLogIn.gif" width="200px" height="200px" />
+</div>
 
 ---
 
@@ -77,7 +83,6 @@
 
 ---
 
-[website]: http://bilgehangecici.site/
 [instagram]: https://www.instagram.com/bilgehangecici
 [linkedin]: https://www.linkedin.com/in/bilgehan-geçici-8b368614a/
 [Spotify]: https://open.spotify.com/user/dk96vzserh9693ew4cr5asib6
